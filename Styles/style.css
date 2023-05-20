@@ -6,3 +6,30 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
+
+.block {
+    border: 20px solid #7c4723;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 15%;
+    text-align: center;
+    width: 90px;
+  }
+  
+  .block:nth-child(1n) {
+    background-color: #fa4359;
+    margin-left: 70px;
+  }
+
+  .block:nth-child(2n) {
+    background-color: #4b35ef;
+    margin-left: 25px;
+  }
+  
+  .block:nth-child(3n) {
+    background-color: #37c3be;
+    margin-left: -15px;
+  }
