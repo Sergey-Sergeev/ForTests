@@ -1,2 +1,2 @@
 # ForTests
-https://github.com/Sergey-Sergeev/ForTests/Pages/Index.html
+https://sergey-sergeev.github.io/ForTests/Pages/Index.html
