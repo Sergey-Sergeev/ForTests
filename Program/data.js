@@ -1,4 +1,5 @@
 export const context = {
     isLoggedIn: true,
-    username: 'Там-тадам, там-тадам, синий трактор едет к нам.'
+    username: 'User',
+    array: ['a', 'b', 'c']
 }
