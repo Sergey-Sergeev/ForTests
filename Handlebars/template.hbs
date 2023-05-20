@@ -1,0 +1,13 @@
+<div class="container">
+    {{#if isLoggedIn}}
+        <h1>Welcome, {{username}}!</h1>
+        <button>Exit</button>
+    {{else}}
+        <h1>Welcome!!!</h1>
+        <p>
+            Please, register or enter in system.
+        </p>
+        <button>Enter</button>
+        <button>Register</button>
+    {{/if}}
+</div>
